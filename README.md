@@ -1,3 +1,3 @@
 # Crocodiles.github.io
 HTML landing page created for the purpose of demonstrating HTML concepts. 
-https://mcjsaintelmy.github.io/Crocodiles.github.io/Index.html
+https://mcjsaintelmy.github.io/Crocodiles/Index.html
